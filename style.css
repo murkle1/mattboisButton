@@ -1,0 +1,54 @@
+body {
+    background-color: #939B62 !important;
+}
+
+.row {
+    position: absolute;
+}
+
+h2{
+    position: absolute;
+    z-index: 1;
+    left: 222px;
+    top: 120px;
+    font-size: 10rem !important;
+}
+
+.bubble {
+    width: 40rem;
+}
+
+.matato {
+    width: 42rem;
+}
+
+.icons {
+    color: #FFD56F;
+}
+
+.socials {
+    text-align: center;
+}
+
+.socials-1 {
+    padding: 8rem 0 4rem 0;
+    letter-spacing: 5rem;
+    
+}
+
+.socials-2 {
+    padding: 5rem 0 5rem 0;
+    letter-spacing: 4rem;
+
+}
+
+.socials-3 {
+    padding: 5rem 0 0 0;
+    letter-spacing: 5rem;
+}
+
+p {
+    font-size: 0.8rem;
+    position: absolute;
+}
+
