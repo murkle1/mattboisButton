@@ -26,6 +26,10 @@ h2{
     color: #FFD56F;
 }
 
+.icons:hover {
+    color: #ceab5a;
+}
+
 .socials {
     text-align: center;
 }
